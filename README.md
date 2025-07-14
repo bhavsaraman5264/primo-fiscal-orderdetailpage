@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # primo-fiscal-orderdetailpage
 Smart POS web app with loyalty redemption system - Primo Fiscal Technical Assessment
->>>>>>> b060c9aa643665005a937b9c4de4883c15a2a646
+
